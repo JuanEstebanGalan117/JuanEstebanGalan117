@@ -1,0 +1,2 @@
+- 👋 Hola, Soy @JuanEstebanGalan117
+- 👀 Y en este repositorio voy a resolver el reto de los 7 days de programación
